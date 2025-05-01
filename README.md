@@ -2,10 +2,8 @@
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and learning new things every day. I specialize in web development, data science, machine learning, and more.
 
-
-![Md Saiful Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msijewelsaif&show_icons=true&hide=prs&count_private=true&theme=radical&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msijewelsaif&layout=compact&theme=radical)
-
+![Md Saiful Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msijewelsaif1&show_icons=true&hide=prs&count_private=true&theme=radical&cache_seconds=1800)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msijewelsaif1&layout=compact&theme=radical)
 
 ## 🚀 Technologies & Tools:
 
@@ -28,15 +26,15 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and learn
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-9E4F96?logo=seaborn&logoColor=white)
 
 ## 🔭 What I'm working on:
-- Machine Learning Projects
-- Web Development Projects with PHP
-- Data Science Research & Sentiment Analysis
-- Contributing to Open Source
+- Machine Learning Projects  
+- Web Development Projects with PHP  
+- Data Science Research & Sentiment Analysis  
+- Contributing to Open Source  
 
 ## 🌱 I'm currently learning:
-- Deep Learning & Neural Networks
-- Cloud Computing and DevOps
-- Advanced Web Development Techniques
+- Deep Learning & Neural Networks  
+- Cloud Computing and DevOps  
+- Advanced Web Development Techniques  
 
 ## 📫 How to reach me:
 
@@ -53,5 +51,3 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and learn
 </p>
 
 <p align="center">Feel free to check out my repositories and connect with me!</p>
-
-
